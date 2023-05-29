@@ -33,7 +33,7 @@ ORDER BY published_age ASC, a.authid -- YOUNGEST
 LIMIT 1
 ;
 
--- What is the oldest age at which an author has a book published? (đầu sách được xuất bản)
+-- What is the oldest age at which an author has a book published? 
 
 -- 3. In which year are most books published? 
 SELECT
